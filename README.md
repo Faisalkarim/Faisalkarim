@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalkarim&label=Profile%20views&color=0e75b6&style=flat" alt="faisalkarim" /> </p>
 
 
-- 👯 I’m looking to collaborate on **Medical image processing, computer vision, iot** related research
+- 👯 I’m looking to collaborate on **Medical image processing, computer vision, IoT** related research projects.
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://tinyurl.com/itsfaisalkarim)
 
