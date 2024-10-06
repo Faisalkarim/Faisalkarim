@@ -1,4 +1,3 @@
-[![MasterHead](https://www.pinterest.com/pin/863917141017382821/)](https://tinyurl.com/itsfaisalkarim)
 <h1 align="center">Hi 👋, I'm Md Faisal Karim</h1>
 <h3 align="center">Researcher | Engineer | Problem solver</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
